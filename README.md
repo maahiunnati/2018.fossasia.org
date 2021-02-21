@@ -1,3 +1,3 @@
-WebSite for 2018.fossasia.org Summit
+Official Website for 2018.fossasia.org Summit
 
 http://2018.fossasia.org
